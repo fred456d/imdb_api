@@ -15,8 +15,8 @@ Api´et har følgende endpoint
 ## Environment Variables
 | Variable            | Required | Default | Description                      |
 |---------------------|----------|---------|----------------------------------|
-| `JDBC_DATABASE_URL` | Yes      | -       | Username for database connection |
-| `JDBC_PASSWORD`     | YES      | -       | Password for database connection |
+| `JDBC_DATABASE_URL` | Yes      | -       | Url for database connection      |
+| `JDBC_USERNAME`     | YES      | -       | Username for database connection |
 | `JDBC_PASSWORD`     | YES      | -       | Password for database connection |
 
 
