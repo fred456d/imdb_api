@@ -13,8 +13,10 @@ Api´et har følgende endpoint
     DELETE /api/movies/{id}: Delete a movie
 
 ## Environment Variables
-| Variable        | Required | Default | Description                      |
-|-----------------|----------|---------|----------------------------------|
-| `JDBC_USERNAME` | Yes      | -       | Username for database connection |
-| `JDBC_PASSWORD` | YES      | -       | Password for database connection |
+| Variable            | Required | Default | Description                      |
+|---------------------|----------|---------|----------------------------------|
+| `JDBC_DATABASE_URL` | Yes      | -       | Username for database connection |
+| `JDBC_PASSWORD`     | YES      | -       | Password for database connection |
+| `JDBC_PASSWORD`     | YES      | -       | Password for database connection |
+
 
